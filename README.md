@@ -15,7 +15,7 @@ Explore India is an informative website showcasing key information about India's
 
 ## How to Use 🖱️
 
-1. Visit the <a href="raja244.github.io/Explore-India" target="_blank">Explore India</a> website.
+1. Visit the <a href="raja244.github.io/Explore-India">Explore India</a> website.
 2. Select a state or union territory from the menu.
 3. Dive into a wealth of information, from geographical facts to cultural insights.
 
